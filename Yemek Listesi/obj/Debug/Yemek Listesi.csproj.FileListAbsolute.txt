@@ -1,0 +1,23 @@
+D:\Legenddarq\Desktop\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\bin\Debug\Yemek Listesi.exe.config
+D:\Legenddarq\Desktop\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\bin\Debug\Yemek Listesi.exe
+D:\Legenddarq\Desktop\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\bin\Debug\Yemek Listesi.pdb
+D:\Legenddarq\Desktop\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek Listesi.csprojAssemblyReference.cache
+D:\Legenddarq\Desktop\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek_Listesi.form_YemekListesi.resources
+D:\Legenddarq\Desktop\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek_Listesi.Properties.Resources.resources
+D:\Legenddarq\Desktop\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek Listesi.csproj.GenerateResource.cache
+D:\Legenddarq\Desktop\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek Listesi.exe
+D:\Legenddarq\Desktop\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek Listesi.pdb
+D:\Legenddarq\Desktop\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek_Listesi.form_YemekSec.resources
+\\legenddarq\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\bin\Debug\Yemek Listesi.exe.config
+\\legenddarq\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\bin\Debug\Yemek Listesi.exe
+\\legenddarq\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\bin\Debug\Yemek Listesi.pdb
+\\legenddarq\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek Listesi.csprojAssemblyReference.cache
+\\legenddarq\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek_Listesi.form_YemekListesi.resources
+\\legenddarq\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek_Listesi.form_YemekSec.resources
+\\legenddarq\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek_Listesi.Properties.Resources.resources
+\\legenddarq\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek Listesi.csproj.GenerateResource.cache
+\\legenddarq\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek Listesi.csproj.CoreCompileInputs.cache
+\\legenddarq\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek Listesi.exe
+\\legenddarq\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek Listesi.pdb
+\\legenddarq\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek_Listesi.form_YemekEkle.resources
+\\legenddarq\ortak\Yemek Listesi\Yemek Listesi\Yemek Listesi\obj\Debug\Yemek Listesi.csproj.ResolveComReference.cache
